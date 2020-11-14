@@ -1,29 +1,20 @@
-# riscv-CMOs
+# riscv-CMOs-discuss
 
-Cache Management Operations (CMOs) for RISC-V
+repo for discussion, e.g. wiki, for CMOs TG.
 
-* Created by: 	Stephano Cetola
-* Requested by: 	Andy Glew
+see parent repo https://github.com/riscv/riscv-CMOs
 
+## wikis duplicated, links to wrong duplicate, WIP/TBD disentanfling
 
-* TBD: working group
-* TBD: riscv mailing list
+Note that riscv-CMOs/wiki and riscv-CNMs-discuss/wiki are duplicated (artifact of original creation 2020-11-13, should be disentangled soon),
+as are some reated files referred to by wiki.Cache Management Operations (CMOs) for RISC-V
 
+Absolute links point to the original wiki,  even when they should point to the -discuss wiki
 
-## Wiki-centric
+Relative liks point to the local wiki, Even when they should point to the other wiki.
 
-The active work on the proposal is in the wiki.
-Eventually it may be moved to the main repository,
-although there are tools to assemble the actual proposed spec for
-publication from the wiki directly.
-Such tools,
-also things like highlight unfinished parts of the proposal on the wiki,
-will be placed in the main repository, i.e. here.
-
-Q: is there a way to treat this project on github, both "main git repo" and "wiki git repo", as the same object? Otherwise will just check out the reps separately, and coordinate.
-    * 5/7/2020: set up wiki as a submodule of repo
-
-## Key wiki pages [@](https://github.com/riscv/riscv-CMOs/wiki)
+## Key wiki pages 
+In top level wiki: [@](https://github.com/riscv/riscv-CMOs/wiki
 * [RISC-V needs CMOs, and hence a CMO Working Group](https://github.com/riscv/riscv-CMOs/wiki/RISC-V-needs-CMOs%2C-and-hence-a-CMO-Working-Group)
   * email seeking WG approval and call for participation
 * [CMOs WG Draft Proposed Charter](https://github.com/riscv/riscv-CMOs/wiki/CMOs-WG-Draft-Proposed-Charter)
@@ -32,16 +23,12 @@ Q: is there a way to treat this project on github, both "main git repo" and "wik
    * [[generated-HTML-and-PDF-for-CMOs-proposal]] (local)
    * on web: https://github.com/riscv/riscv-CMOs/wiki/generated-HTML-and-PDF-for-CMOs-proposal
 
+In this members/discussion wiki, [@](https://github.com/riscv/riscv-CMOs-discuss/wiki)
 
 
 
 
-## Links
-
-Project on GitHib:
-* https://github.com/riscv/riscv-CMOs
-* https://github.com/riscv/riscv-CMOs/wiki
-* TBD: links that work when checked out locally as well as on GitHub
+## Relative Links repo/wiki
 
 Relative, when checked out
 * relative <a href="../../wiki">href="../../wiki"</a>,
