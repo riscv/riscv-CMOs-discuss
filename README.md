@@ -4,7 +4,7 @@ repo for discussion, e.g. wiki, for CMOs TG.
 
 see parent repo https://github.com/riscv/riscv-CMOs
 
-## wikis duplicated, links to wrong duplicate, WIP/TBD disentanfling
+## wikis duplicated, links to wrong duplicate, WIP/TBD disentangling
 
 Note that riscv-CMOs/wiki and riscv-CNMs-discuss/wiki are duplicated (artifact of original creation 2020-11-13, should be disentangled soon),
 as are some reated files referred to by wiki.Cache Management Operations (CMOs) for RISC-V
