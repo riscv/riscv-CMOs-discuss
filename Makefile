@@ -31,9 +31,13 @@ always:
 
 # run `make git-post-clone' right after git clone of Ri5-stuff
 # to update submodules (currently only Ri5-stuff.wiki)
+
+# ^^^ Not necessary if you did git clone --recurse-submodules
 git-post-clone:
 	git submodule init
 	git submodule update
+
+
 
 
 git-diff:
